@@ -1,0 +1,54 @@
+{
+  "Imovel 1": {
+    "Contrato_1": {
+      "Data_Contrato_Inicial": "01/01/2023",
+      "Dias_Locados": "120",
+      "Inquilino": "Joao da Silva",
+      "Telefone": "15-998562478"
+    },
+    "Contrato_2": {
+      "Data_Contrato_Inicial": "01/01/2021",
+      "Dias_Locados": "140",
+      "Inquilino": "Luis da Silva",
+      "Telefone": "15-998562578"
+    },
+    "Contrato_4": {
+      "Data_Contrato_Inicial": "12/02/2023",
+      "Dias_Locados": "222",
+      "Inquilino": "ADRIANA",
+      "Telefone": "22222222"
+    },
+    "Contrato_5": {
+      "Data_Contrato_Inicial": "24/11/2023",
+      "Dias_Locados": "33333",
+      "Inquilino": "LUCAS",
+      "Telefone": "444444"
+    },
+    "Contrato_6": {
+      "Data_Contrato_Inicial": "21/11/2023",
+      "Dias_Locados": "2221",
+      "Inquilino": "ATHEUS",
+      "Telefone": "1231121"
+    }
+  },
+  "Imovel 2": {
+    "Contrato_1": {
+      "Data_Contrato_Inicial": "01/01/2022",
+      "Dias_Locados": "130",
+      "Inquilino": "Maria da Silva",
+      "Telefone": "15-951475325"
+    },
+    "Contrato_2": {
+      "Data_Contrato_Inicial": "01/01/2020",
+      "Dias_Locados": "200",
+      "Inquilino": "Lucas da Silva",
+      "Telefone": "15-951475225"
+    },
+    "Contrato_3": {
+      "Data_Contrato_Inicial": "24/11/2023",
+      "Dias_Locados": "1111",
+      "Inquilino": "SUELI",
+      "Telefone": "11111"
+    }
+  }
+}
